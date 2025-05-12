@@ -158,3 +158,7 @@ The application demonstrates advanced Java programming concepts:
 8. **Set/Maps**: Storing unique elements and key-value relationships
 9. **Graph**: Modeling subject dependencies with advanced algorithms
 10. **Recursion**: Used in depth-first search and recursive analysis
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
